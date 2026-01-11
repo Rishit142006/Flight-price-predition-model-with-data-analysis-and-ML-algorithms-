@@ -1,0 +1,2 @@
+# Flight-price-predition-model-with-data-analysis-and-ML-algorithms-
+This is a research project created by me for one of my B.tech subject , this project includes Exploratory Data Analysis (EDA) + Visualizations  of  1) Market share of airlines  2) distribution of ticket prices 3) Airlines vs average prices  and many other important data related insights and also airline Price predication using ML algorithms 
